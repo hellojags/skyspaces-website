@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "./static/css/main.a99bbec1.chunk.css",
+    "main.js": "./static/js/main.4b70fbfe.chunk.js",
+    "runtime-main.js": "./static/js/runtime-main.42b2d879.js",
+    "static/css/2.bdb5f066.chunk.css": "./static/css/2.bdb5f066.chunk.css",
+    "static/js/2.2d8a7759.chunk.js": "./static/js/2.2d8a7759.chunk.js",
+    "index.html": "./index.html",
+    "precache-manifest.64224838ea04e46210d93c4a8581cc51.js": "./precache-manifest.64224838ea04e46210d93c4a8581cc51.js",
+    "service-worker.js": "./service-worker.js",
+    "static/js/2.2d8a7759.chunk.js.LICENSE.txt": "./static/js/2.2d8a7759.chunk.js.LICENSE.txt",
+    "static/media/Sia.svg": "./static/media/Sia.7dd07c88.svg",
+    "static/media/SkySpaces_g.png": "./static/media/SkySpaces_g.531bd028.png",
+    "static/media/SkySpaces_logo.png": "./static/media/SkySpaces_logo.1f88e98a.png",
+    "static/media/SkySpaces_logo_transparent_small.png": "./static/media/SkySpaces_logo_transparent_small.ffb0dfa9.png",
+    "static/media/icon.jpeg": "./static/media/icon.a0153b0e.jpeg",
+    "static/media/smLogo.png": "./static/media/smLogo.ffb0dfa9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42b2d879.js",
+    "static/css/2.bdb5f066.chunk.css",
+    "static/js/2.2d8a7759.chunk.js",
+    "static/css/main.a99bbec1.chunk.css",
+    "static/js/main.4b70fbfe.chunk.js"
+  ]
+}
